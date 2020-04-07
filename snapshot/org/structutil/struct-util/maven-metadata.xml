@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.structutil</groupId>
+  <artifactId>struct-util</artifactId>
+  <versioning>
+    <versions>
+      <version>3.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200407084504</lastUpdated>
+  </versioning>
+</metadata>
