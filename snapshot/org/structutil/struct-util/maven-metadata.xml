@@ -4,8 +4,8 @@
   <artifactId>struct-util</artifactId>
   <versioning>
     <versions>
-      <version>3.0.1-SNAPSHOT</version>
+      <version>3.0.2.beta-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200407084504</lastUpdated>
+    <lastUpdated>20200723062203</lastUpdated>
   </versioning>
 </metadata>
