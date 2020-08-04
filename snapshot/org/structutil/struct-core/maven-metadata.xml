@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.structutil</groupId>
-  <artifactId>struct-util</artifactId>
+  <artifactId>struct-core</artifactId>
   <versioning>
     <versions>
-      <version>3.0.1-SNAPSHOT</version>
+      <version>3.0.2.beta-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200407090106</lastUpdated>
+    <lastUpdated>20200804041937</lastUpdated>
   </versioning>
 </metadata>
